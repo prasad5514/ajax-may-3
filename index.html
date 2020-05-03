@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<head>
+    <title>Convert JSON Data to HTML Table</title>
+    <style>
+        th, td, p, input {
+            font:14px Verdana;
+            color: firebrick;
+        }
+        table, th, td 
+        {
+            border: solid 5px rgb(12, 98, 115);
+            border-collapse: collapse;
+            padding: 8px 40px;
+            text-align: center;
+        }
+        th {
+            font-weight:bold;
+        }
+        .h1
+        {
+            color: blue;
+            text-align: center;
+        }
+        .div
+        {
+            background-color: yellowgreen;
+            top: color: #777;
+            padding:40px;
+        }
+        img 
+        {
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="h1" >Click the button below to know the available item</h1>
+    <div>
+        <h2 class="display-4 threeDtext text-center">Grocery Shopping List</h2>
+        <img src="may3.jpg" style="width:270px;height:270px;margin-right:3px;">
+    </div>
+        <button class="btn btn-primary" onclick="CreateTableFromJSON()">button</button>
+    <div class="div" id="showData" >
+        <p><h3><strong>Welcome to Elite super market</strong> </h3></p>
+    </div>
+</body>
+<script src="test2.js"></script>
+</html>

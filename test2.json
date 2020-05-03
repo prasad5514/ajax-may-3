@@ -1,0 +1,100 @@
+{
+    "myBookss":[
+        {
+            "Serial no": "1",
+            "Name": "Rice",
+            "Quantity": "25",
+            "Unit": "Killo gram",
+            "Departement": "Grocery",
+            "Notes":"palakkadan matta"
+        },
+        {
+            "Serial no": "2",
+            "Name": "Sugar",
+            "Quantity": "2",
+            "Unit": "Killo gram",
+            "Departement": "Grocery",
+            "Notes":"white"
+        },
+        {
+            "Serial no": "3",
+            "Name": "Tea powder",
+            "Quantity": "250",
+            "Unit": "gram",
+            "Departement": "Beverages and concentrates",
+            "Notes":"AVT"
+        },
+        {
+            "Serial no": "4",
+            "Name": "Coconut oil",
+            "Quantity": "1",
+            "Unit": "Liter",
+            "Departement": "Grocery",
+            "Notes":"Packet"
+        },
+        {
+            "Serial no": "5",
+            "Name": "Onion",
+            "Quantity": "2",
+            "Unit": "Killo gram",
+            "Departement": "Vegitables",
+            "Notes":"Savala"
+        },
+        {
+            "Serial no": "6",
+            "Name": "Chilly powder",
+            "Quantity": "250",
+            "Unit": "Gram",
+            "Departement": "Grocery",
+            "Notes":"Packet"
+        },
+        {
+            "Serial no": "7",
+            "Name": "Turmeric powder",
+            "Quantity": "250",
+            "Unit": "Gram",
+            "Departement": "Grocery",
+            "Notes":"Packet"
+        },
+        {
+            "Serial no": "8",
+            "Name": "Coriander powder",
+            "Quantity": "250",
+            "Unit": "Gram",
+            "Departement": "Grocery",
+            "Notes":"Packet"
+        },
+        {
+            "Serial no": "9",
+            "Name": "Banana",
+            "Quantity": "2",
+            "Unit": "Killo gram",
+            "Departement": "Fruit",
+            "Notes":"Fresh"
+        },
+        {
+            "Serial no": "10",
+            "Name": "Soap",
+            "Quantity": "3",
+            "Unit": "bar",
+            "Departement": "Beauty & Hygiene",
+            "Notes":"Medimix"
+        },
+        {
+            "Serial no": "11",
+            "Name": "Toothpaiste",
+            "Quantity": "2",
+            "Unit": "Tube",
+            "Departement": "Beauty & Hygiene",
+            "Notes":"Sensodyne"
+        },
+        {
+            "Serial no": "12",
+            "Name": "Tea strainer",
+            "Quantity": "1",
+            "Unit": "Piece",
+            "Departement": "Kitchen utensils",
+            "Notes":"Steel"
+        }
+    ]
+}
